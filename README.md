@@ -15,27 +15,6 @@
 
 [<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/asifmehmood1997)[<img align="left" alt="Stack Overflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"/>](https://stackoverflow.com/users/9104570/asif-mehmood)
 <br />
-<br />
-
----
-
-### 🧠 Tech Stack & Tools
-
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"/>](#)
-[<img align="left" alt="OpenAI" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-openai-1524348-1290723.png"/>](#)
-[<img align="left" alt="LangChain" width="26px" src="https://avatars.githubusercontent.com/u/139914147?s=280&v=4"/>](#)
-[<img align="left" alt="Hugging Face" width="26px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"/>](#)
-[<img align="left" alt="FastAPI" width="26px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"/>](#)
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"/>](#)
-[<img align="left" alt="SQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png"/>](#)
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"/>](#)
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"/>](#)
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"/>](#)
-[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"/>](#)
-[<img align="left" alt="OCR" width="26px" src="https://cdn-icons-png.flaticon.com/512/2917/2917993.png"/>](#)
-
-<br />
-<br />
 
 ---
 
@@ -103,6 +82,25 @@ I've contributed to the [LangChain](https://github.com/langchain-ai/langchain) a
 - [🤖 Behind-the-Scenes of Building AI Agents](https://your-blog-link.com/building-agents)
 - [📹 How to Use LangChain with OpenAI](https://youtube.com/your-video)
 <!-- CONTENT:END -->
+
+---
+
+### 🧠 Tech Stack & Tools
+
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"/>](#)
+[<img align="left" alt="OpenAI" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-openai-1524348-1290723.png"/>](#)
+[<img align="left" alt="LangChain" width="26px" src="https://avatars.githubusercontent.com/u/139914147?s=280&v=4"/>](#)
+[<img align="left" alt="Hugging Face" width="26px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"/>](#)
+[<img align="left" alt="FastAPI" width="26px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"/>](#)
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"/>](#)
+[<img align="left" alt="SQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png"/>](#)
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"/>](#)
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"/>](#)
+[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"/>](#)
+[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"/>](#)
+[<img align="left" alt="OCR" width="26px" src="https://cdn-icons-png.flaticon.com/512/2917/2917993.png"/>](#)
+
+<br />
 
 ---
 
