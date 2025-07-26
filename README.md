@@ -51,6 +51,51 @@
 
 ---
 
+### 🧠 Open Source Contributions
+
+I've contributed to the [LangChain](https://github.com/langchain-ai/langchain) and [LangChain Community](https://github.com/langchain-ai/langchain-community) repositories, focusing on improvements to tools, utilities, and core features.
+
+#### 🔗 Notable Merged Pull Requests
+
+- [langchain-ai/langchain-community#83](https://github.com/langchain-ai/langchain-community/pull/83)  
+  **🔢 Added AWS Bedrock Claude 4 series model cost tracking**  
+  Enhanced `bedrock_anthropic_callback.py` to include token pricing data for the following Claude 4 models:
+  - `anthropic.claude-sonnet-4-20250514-v1:0`
+  - `anthropic.claude-opus-4-20250514-v1:0`  
+  Pricing based on AWS Bedrock documentation.  
+  Reference: [AWS Bedrock Pricing](https://aws.amazon.com/bedrock/pricing)  
+  Related Issue: [#82](https://github.com/langchain-ai/langchain-community/issues/82)
+
+- [langchain-ai/langchain-community#50](https://github.com/langchain-ai/langchain-community/pull/50)  
+  **🔍 Added support for `additional_search_client_options` in Azure Search (async)**  
+  Extended the Azure Search **async vectorstore client** to accept `additional_search_client_options`, aligning its behavior with the sync client.  
+  Previously, the async client ignored this parameter and defaulted to an empty dictionary.  
+  Related Issue: [#42](https://github.com/langchain-ai/langchain-community/issues/42)
+
+- [langchain-ai/langchain#31177](https://github.com/langchain-ai/langchain/pull/31177)  
+  **📚 Fixed outdated import paths and corrected documentation typo**  
+  Updated the import path of `DoctranPropertyExtractor` from `document_loaders` to `document_transformers` to match recent package refactoring.  
+  Also fixed a minor typo across docs for clarity and correctness.
+
+- [langchain-ai/langchain#31107](https://github.com/langchain-ai/langchain/pull/31107)  
+  **⚙️ Replaced deprecated `.dict()` calls with `.model_dump()` for Pydantic v2 compatibility**  
+  Updated multiple modules to replace deprecated `.dict()` usage with `.model_dump()` to align with **Pydantic v2+ guidelines** and suppress `PydanticDeprecatedSince20` warnings.  
+  This change prepares the codebase for Pydantic v3 with no impact on functional logic.  
+  Related Issue: [#31103](https://github.com/langchain-ai/langchain/issues/31103)
+
+- [langchain-ai/langchain-community#27](https://github.com/langchain-ai/langchain-community/pull/27)  
+  **💰 Added token usage & cost tracking for OpenAI embedding models in `OpenAICallbackHandler`**  
+  Enhanced `get_openai_callback()` to include **embedding model calls** in usage and cost reporting, improving observability and enabling complete cost tracking across all OpenAI model types.  
+  This change aligns LangChain's callback utilities with real-world production monitoring needs.  
+  Related Issue: [#25888](https://github.com/langchain-ai/langchain/issues/25888)
+
+
+#### 🛠️ Ongoing Contributions
+- Actively contributing additional improvements to LangChain and related projects.  
+
+
+---
+
 ### 🎬 YouTube | Articles | Interviews
 
 <!-- CONTENT:START -->
@@ -63,4 +108,4 @@
 
 ### 📊 GitHub Stats
 
-<img align="left" alt="Your Github Stats" src="https://github-readme-stats.vercel.app/api?username=AsifMehmood97&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="Asif's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AsifMehmood97&show_icons=true&hide_border=true&theme=radical&count_private=true" />
