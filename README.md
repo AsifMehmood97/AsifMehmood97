@@ -98,9 +98,9 @@ Explore my work on [Medium](https://medium.com/@ch.asifmehmood97).
 ### 🧠 Tech Stack & Tools
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"/>](https://www.python.org/)
-[<img align="left" alt="OpenAI" width="52px" src="https://cdn.iconscout.com/icon/free/png-256/free-openai-7601069-6138535.png"/>](https://openai.com/)
-<a href="https://www.langchain.com" style="text-decoration: none;">🦜🔗 LangChain</a>
-[<img align="left" alt="Streamlit" width="52px" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg"/>](https://streamlit.io/)
+[<img align="left" alt="OpenAI" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-openai-13235320-10919008.png"/>](https://openai.com/)
+[<img align="left" alt="Langchain" width="26px" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAg1AAZAA0"/>](https://www.langchain.com/)
+[<img align="left" alt="Streamlit" width="26px" src="https://streamlit.io/images/brand/streamlit-mark-color.png"/>](https://streamlit.io/)
 [<img align="left" alt="Hugging Face" width="26px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"/>](https://huggingface.co/)
 [<img align="left" alt="FastAPI" width="26px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"/>](https://fastapi.tiangolo.com/)
 [<img align="left" alt="SQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png"/>](https://www.mysql.com/)
