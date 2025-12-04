@@ -20,16 +20,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<!-- PROJECTS:START -->
-- [🔍 RAG-as-a-Service Platform](https://github.com/yourusername/rag-platform) – Modular retrieval-augmented generation system with multi-vector support.
-- [🤖 Conversational AI with Tools & Memory](https://github.com/yourusername/tool-augmented-agent) – LangChain-powered chatbot with custom tools and state.
-- [🧾 OCR-Powered Form Understanding](https://github.com/yourusername/doc-ai-suite) – Document parsing + classification + summary pipeline.
-- [🧠 Fine-Tuned LLM for Niche Domain](https://github.com/yourusername/custom-llm) – QLoRA + PEFT on domain-specific corpus.
-
----
-
 ### 🧠 Open Source Contributions
 
 [![LangChain Contributor](https://img.shields.io/badge/LangChain-Contributor-blue?logo=github)](https://github.com/langchain-ai/langchain/pulls?q=is:pr+author:AsifMehmood97)
